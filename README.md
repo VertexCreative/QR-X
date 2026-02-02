@@ -16,6 +16,3 @@
 * **Library:** `qrcode.js`
 * **Styling:** Tailwind CSS + CSS Keyframes
 * **Icons:** Lucide
-
-## 🚀 Usage
-Open `index.html`, enter your URL, and click **Initialize**.
